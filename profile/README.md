@@ -10,37 +10,30 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 
 ## Our Products
 
-![APPUiO Cloud](images/appuio-cloud.svg)
+[<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appuio-cloud.svg" alt="APPUiO Cloud" width="300"/>](https://docs.appuio.cloud/)
 
-![Project Syn](images/project-syn.svg)
+[<img src="https://github.com/vshn/.github/raw/main/profile/images/project-syn.svg" alt="Project Syn" width="300"/>](https://syn.tools/)
 
-![K8up](images/k8up.svg)
+[<img src="https://github.com/vshn/.github/raw/main/profile/images/k8up.svg" alt="K8up" width="300"/>](https://k8up.io/)
+
+## Blog
+
+<!-- GENERAL:START -->
+<!-- GENERAL:END -->
+
+## Tech Blog
+
+<!-- TECH:START -->
+<!-- TECH:END -->
+
+## VSHN.timer
+
+<!-- VSHNTIMER:START -->
+<!-- VSHNTIMER:END -->
 
 ## Social Media and More
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/vshn-ag) [<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vshn_ch) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/vshn) [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://www.vshn.ch/en-rss.xml)
-
-## Blog
-
-<!-- BLOG:START -->
-- [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/en/blog/vshn-timer-132-aws-in-the-spotlight/)
-- [Serverless on Kubernetes: Knative](https://www.vshn.ch/en/blog/serverless-on-kubernetes-knative/)
-- [Thriving in a Zeitgeist Market](https://www.vshn.ch/en/blog/thriving-in-a-zeitgeist-market/)
-- [VSHN.timer #131: Cloud Native Job Titles](https://www.vshn.ch/en/blog/vshn-timer-131-cloud-native-job-titles/)
-- [VSHN.timer #130: Who Monitors the Monitoring?](https://www.vshn.ch/en/blog/vshn-timer-130-who-monitors-the-monitoring/)
-- [VSHN.timer #129: Latest OpenShift News](https://www.vshn.ch/en/blog/vshn-timer-129-latest-openshift-news/)
-<!-- BLOG:END -->
-
-## Weekly Series & Newsletter: VSHN.timer
-
-<!-- VSHNTIMER:START -->
-- [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/blog/vshn-timer-132-aws-in-the-spotlight/)
-- [VSHN.timer #131: Cloud Native Job Titles](https://www.vshn.ch/blog/vshn-timer-131-cloud-native-job-titles/)
-- [VSHN.timer #130: Who Monitors the Monitoring?](https://www.vshn.ch/blog/vshn-timer-130-who-monitors-the-monitoring/)
-- [VSHN.timer #129: Latest OpenShift News](https://www.vshn.ch/blog/vshn-timer-129-latest-openshift-news/)
-- [VSHN.timer #128: Will Software Security Ever Become A National Concern?](https://www.vshn.ch/blog/vshn-timer-128-will-software-security-ever-become-a-national-concern/)
-- [VSHN.timer #127: Crossplane Rising](https://www.vshn.ch/blog/vshn-timer-127-crossplane-rising/)
-<!-- VSHNTIMER:END -->
 
 ## Technologies
 

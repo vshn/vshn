@@ -7,14 +7,14 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest general blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG"
-          commit_message: "Updated readme with the latest blog articles"
-          feed_list: "https://www.vshn.ch/en-rss.xml"
-          max_post_count: 6
+          comment_tag_name: "GENERAL"
+          commit_message: "Updated readme with the latest general blog articles"
+          feed_list: "https://www.vshn.ch/general-rss.xml"
+          max_post_count: 4
           readme_path: profile/README.md
