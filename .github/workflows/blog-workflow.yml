@@ -17,3 +17,4 @@ jobs:
           commit_message: "Updated readme with the latest blog articles"
           feed_list: "https://www.vshn.ch/en-rss.xml"
           max_post_count: 6
+          readme_path: profile/README.md

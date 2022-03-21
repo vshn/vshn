@@ -17,3 +17,4 @@ jobs:
           commit_message: "Updated readme with the latest VSHN.timer articles"
           feed_list: "https://www.vshn.ch/vshn-timer-rss.xml"
           max_post_count: 6
+          readme_path: profile/README.md
