@@ -54,8 +54,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 <!-- VIDEOS:START -->
 <!-- VIDEOS:END -->
 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMYolaqk2KRMHvVskdafhpw
-
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
 
 ## Technologies
