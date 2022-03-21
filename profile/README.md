@@ -45,9 +45,18 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #129: Latest OpenShift News](https://www.vshn.ch/blog/vshn-timer-129-latest-openshift-news/)
 <!-- VSHNTIMER:END -->
 
-## Social Media and More
+## Social Media
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/vshn-ag) [<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vshn_ch) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/vshn) [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://www.vshn.ch/en-rss.xml)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/vshn-ag) [<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vshn_ch) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/vshn) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://www.vshn.ch/en-rss.xml)
+
+## VSHN.tv
+
+<!-- VIDEOS:START -->
+<!-- VIDEOS:END -->
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMYolaqk2KRMHvVskdafhpw
+
+Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
 
 ## Technologies
 
