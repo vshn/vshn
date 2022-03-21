@@ -1,5 +1,3 @@
-# VSHN
-
 [<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/vshn.svg" alt="APPUiO Cloud" height="100"/>](https://vshn.ch/)
 
 VSHN automates the operation of applications in the cloud or on-premises, so that you as a software developer can have peace of mind and build your awesome application. VSHN is the Ops in DevOps.
