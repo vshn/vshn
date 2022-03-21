@@ -1,6 +1,6 @@
 # VSHN
 
-[<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/vshn.svg" alt="APPUiO Cloud" height="300"/>](https://vshn.ch/)
+[<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/vshn.svg" alt="APPUiO Cloud" height="100"/>](https://vshn.ch/)
 
 VSHN automates the operation of applications in the cloud or on-premises, so that you as a software developer can have peace of mind and build your awesome application. VSHN is the Ops in DevOps.
 
@@ -12,11 +12,11 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 
 ## Our Products
 
-[<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appuio-cloud.svg" alt="APPUiO Cloud" height="300"/>](https://docs.appuio.cloud/)
+[<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appuio-cloud.svg" alt="APPUiO Cloud" height="100"/>](https://docs.appuio.cloud/)
 
-[<img src="https://github.com/vshn/.github/raw/main/profile/images/project-syn.svg" alt="Project Syn" height="300"/>](https://syn.tools/)
+[<img src="https://github.com/vshn/.github/raw/main/profile/images/project-syn.svg" alt="Project Syn" height="100"/>](https://syn.tools/)
 
-[<img src="https://github.com/vshn/.github/raw/main/profile/images/k8up.svg" alt="K8up" height="300"/>](https://k8up.io/)
+[<img src="https://github.com/vshn/.github/raw/main/profile/images/k8up.svg" alt="K8up" height="100"/>](https://k8up.io/)
 
 ## Blog
 
