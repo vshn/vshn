@@ -34,6 +34,12 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/blog/vshn-timer-132-aws-in-the-spotlight/)
+- [VSHN.timer #131: Cloud Native Job Titles](https://www.vshn.ch/blog/vshn-timer-131-cloud-native-job-titles/)
+- [VSHN.timer #130: Who Monitors the Monitoring?](https://www.vshn.ch/blog/vshn-timer-130-who-monitors-the-monitoring/)
+- [VSHN.timer #129: Latest OpenShift News](https://www.vshn.ch/blog/vshn-timer-129-latest-openshift-news/)
+- [VSHN.timer #128: Will Software Security Ever Become A National Concern?](https://www.vshn.ch/blog/vshn-timer-128-will-software-security-ever-become-a-national-concern/)
+- [VSHN.timer #127: Crossplane Rising](https://www.vshn.ch/blog/vshn-timer-127-crossplane-rising/)
 <!-- VSHNTIMER:END -->
 
 ## Technologies
