@@ -23,6 +23,12 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- BLOG:START -->
+- [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/en/blog/vshn-timer-132-aws-in-the-spotlight/)
+- [Serverless on Kubernetes: Knative](https://www.vshn.ch/en/blog/serverless-on-kubernetes-knative/)
+- [Thriving in a Zeitgeist Market](https://www.vshn.ch/en/blog/thriving-in-a-zeitgeist-market/)
+- [VSHN.timer #131: Cloud Native Job Titles](https://www.vshn.ch/en/blog/vshn-timer-131-cloud-native-job-titles/)
+- [VSHN.timer #130: Who Monitors the Monitoring?](https://www.vshn.ch/en/blog/vshn-timer-130-who-monitors-the-monitoring/)
+- [VSHN.timer #129: Latest OpenShift News](https://www.vshn.ch/en/blog/vshn-timer-129-latest-openshift-news/)
 <!-- BLOG:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
