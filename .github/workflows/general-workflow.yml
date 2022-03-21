@@ -1,4 +1,4 @@
-name: Blog workflow
+name: General blog workflow
 on:
   schedule:
     # https://crontab.guru/#59_1_*_*_*/1
