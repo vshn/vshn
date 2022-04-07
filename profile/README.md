@@ -28,6 +28,9 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## APPUiO Cloud
 
 <!-- APPUIOCLOUD:START -->
+- [Bonjour, Genève! Je m’appelle APPUiO Cloud](https://www.vshn.ch/blog/bonjour-geneve-je-mappelle-appuio-cloud/)
+- [VSHN year in review 2021](https://www.vshn.ch/blog/vshn-year-in-review-2021/)
+- [Ankündigung: APPUiO Cloud](https://www.vshn.ch/blog/ankuendigung-appuio-cloud/)
 <!-- APPUIOCLOUD:END -->
 
 ## Tech Blog
