@@ -25,6 +25,11 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Opening hours Christmas 2021 and New Year](https://www.vshn.ch/en/blog/opening-hours-christmas-2021-and-new-year/)
 <!-- GENERAL:END -->
 
+## APPUiO Cloud
+
+<!-- APPUIOCLOUD:START -->
+<!-- APPUIOCLOUD:END -->
+
 ## Tech Blog
 
 <!-- TECH:START -->
