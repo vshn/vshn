@@ -19,10 +19,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [The winners of the DevOps Study 2022 have been determined](https://www.vshn.ch/en/blog/the-winners-of-the-devops-study-2022-have-been-determined/)
 - [VSHN year in review 2021](https://www.vshn.ch/en/blog/vshn-year-in-review-2021/)
 - [DevOps in Switzerland Study 2022](https://www.vshn.ch/en/blog/devops-in-switzerland-study-2022/)
 - [Partnership VSHN &amp; Isovalent](https://www.vshn.ch/en/blog/partnership-vshn-isovalent/)
-- [Opening hours Christmas 2021 and New Year](https://www.vshn.ch/en/blog/opening-hours-christmas-2021-and-new-year/)
 <!-- GENERAL:END -->
 
 ## APPUiO Cloud
