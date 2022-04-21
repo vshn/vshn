@@ -37,10 +37,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [Agent-less GitLab integration with OpenShift](https://www.vshn.ch/en/blog/agent-less-gitlab-integration-with-openshift/)
 - [Serverless on Kubernetes: Knative](https://www.vshn.ch/en/blog/serverless-on-kubernetes-knative/)
 - [Changes in OpenShift 4.9](https://www.vshn.ch/en/blog/changes-in-openshift-4-9/)
 - [K8up Accepted for CNCF Project Onboarding](https://www.vshn.ch/en/blog/k8up-accepted-for-cncf-project-onboarding/)
-- [Microservices or Not? Your Team has Already Decided](https://www.vshn.ch/en/blog/microservices-or-not-your-team-has-already-decided/)
 <!-- TECH:END -->
 
 ## VSHN.timer
