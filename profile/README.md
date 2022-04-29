@@ -59,10 +59,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Switzerland GitLab Meetup – 2022-04-27](https://www.youtube.com/watch?v=iYPufKMabYc)
 - [Cloud Native Computing Switzerland Meetup – 2022-02-24](https://www.youtube.com/watch?v=GqFy1RLTbXU)
 - [Webinar: Understand the Hype: Kubernetes &amp; Rancher in 60 Minutes – 2022-02-03](https://www.youtube.com/watch?v=S1mCJnbqACE)
 - [Webinar: Introduction to Kubernetes &amp; Rancher – 2021-12-14](https://www.youtube.com/watch?v=jeTwFo2abrI)
-- [Webinar: A Quantum of… Computing! On Exoscale. With OCRE. Powered By VSHN.](https://www.youtube.com/watch?v=hVFKdFQBsiY)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
