@@ -59,10 +59,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Weaponizing NPM Packages for Protest and Malware](https://www.youtube.com/watch?v=rWvBMNmwWEI)
+- [Cloud Native Computing Switzerland Meetup – 2022-05-12](https://www.youtube.com/watch?v=TWMW03m614w)
 - [Switzerland GitLab Meetup – 2022-04-27](https://www.youtube.com/watch?v=iYPufKMabYc)
 - [Cloud Native Computing Switzerland Meetup – 2022-02-24](https://www.youtube.com/watch?v=GqFy1RLTbXU)
-- [Webinar: Understand the Hype: Kubernetes &amp; Rancher in 60 Minutes – 2022-02-03](https://www.youtube.com/watch?v=S1mCJnbqACE)
-- [Webinar: Introduction to Kubernetes &amp; Rancher – 2021-12-14](https://www.youtube.com/watch?v=jeTwFo2abrI)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
