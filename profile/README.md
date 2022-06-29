@@ -37,10 +37,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [Keeping Things Up to Date with Renovate](https://www.vshn.ch/en/blog/keeping-things-up-to-date-with-renovate/)
 - [Get the “DevOps in Switzerland 2022” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2022-report/)
 - [How to Restrict Container Registries per Namespace with Kyverno](https://www.vshn.ch/en/blog/how-to-restrict-container-registries-per-namespace-with-kyverno/)
 - [Agent-less GitLab integration with OpenShift](https://www.vshn.ch/en/blog/agent-less-gitlab-integration-with-openshift/)
-- [Serverless on Kubernetes: Knative](https://www.vshn.ch/en/blog/serverless-on-kubernetes-knative/)
 <!-- TECH:END -->
 
 ## VSHN.timer
