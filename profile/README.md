@@ -59,10 +59,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Getting Started with Project Syn](https://www.youtube.com/watch?v=_6rdYHbIy_M)
 - [Liran Tal on NPM Package Security – 2022-05-19](https://www.youtube.com/watch?v=rWvBMNmwWEI)
 - [Exoscale im OCRE für DFN-Mitglieder](https://www.youtube.com/watch?v=MISdIYhfS4s)
 - [Cloud Native Computing Switzerland Meetup – 2022-05-12](https://www.youtube.com/watch?v=TWMW03m614w)
-- [Switzerland GitLab Meetup – 2022-04-27](https://www.youtube.com/watch?v=iYPufKMabYc)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
