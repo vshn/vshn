@@ -46,10 +46,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #147: Thinking Differently](https://www.vshn.ch/blog/vshn-timer-147-thinking-differently/)
 - [VSHN.timer #146: The Case Against Kubernetes](https://www.vshn.ch/blog/vshn-timer-146-the-case-against-kubernetes/)
 - [VSHN.timer #145: Attacks, Vulnerabilities, and Threats](https://www.vshn.ch/blog/vshn-timer-145-attacks-vulnerabilities-and-threats/)
 - [VSHN.timer #144: Build, Scan, and Share Containers](https://www.vshn.ch/blog/vshn-timer-144-build-scan-and-share-containers/)
-- [VSHN.timer #143: Architectural Trends](https://www.vshn.ch/blog/vshn-timer-143-architectural-trends/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
