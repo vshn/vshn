@@ -28,10 +28,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## APPUiO Cloud
 
 <!-- APPUIOCLOUD:START -->
+- [Most Interesting New Features of OpenShift 4.11](https://www.vshn.ch/blog/most-interesting-new-features-of-openshift-4-11/)
 - [Ankündigung von AppCat auf APPUiO Cloud](https://www.vshn.ch/blog/ankuendigung-appcat-auf-appuio-cloud/)
 - [Creating a Product through DevOps: The Story of APPUiO Cloud](https://www.vshn.ch/blog/creating-a-product-through-devops-the-story-of-appuio-cloud/)
 - [Behind the Scenes at APPUiO Cloud](https://www.vshn.ch/blog/behind-the-scenes-at-appuio-cloud/)
-- [About the APPUiO Cloud API](https://www.vshn.ch/blog/about-the-appuio-cloud-api/)
 <!-- APPUIOCLOUD:END -->
 
 ## Tech Blog
