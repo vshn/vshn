@@ -37,10 +37,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [VSHN HackDay – Tailscale on APPUiO Cloud](https://www.vshn.ch/en/blog/vshn-hackday-tailscale-on-appuio-cloud/)
 - [Most Interesting New Features of OpenShift 4.11](https://www.vshn.ch/en/blog/most-interesting-new-features-of-openshift-4-11/)
 - [Keeping Things Up to Date with Renovate](https://www.vshn.ch/en/blog/keeping-things-up-to-date-with-renovate/)
 - [Get the “DevOps in Switzerland 2022” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2022-report/)
-- [How to Restrict Container Registries per Namespace with Kyverno](https://www.vshn.ch/en/blog/how-to-restrict-container-registries-per-namespace-with-kyverno/)
 <!-- TECH:END -->
 
 ## VSHN.timer
