@@ -59,10 +59,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [APPUiO Beerup! – 2022-11-01](https://www.youtube.com/watch?v=L7cQE0F2iPM)
 - [Cloud Native Computing Switzerland Meetup – 2022-11-24](https://www.youtube.com/watch?v=p9Hx2j2_HdY)
 - [Cloud Native Computing Switzerland Meetup – 2022-08-25](https://www.youtube.com/watch?v=4pL4pIM87dQ)
 - [VSHNtower office Zurich](https://www.youtube.com/watch?v=z0i5I9FEmSs)
-- [Getting Started with Project Syn](https://www.youtube.com/watch?v=_6rdYHbIy_M)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
