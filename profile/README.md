@@ -28,10 +28,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## APPUiO Cloud
 
 <!-- APPUIOCLOUD:START -->
+- [Vertical Pod Autoscaler on APPUiO Cloud](https://www.vshn.ch/blog/vertical-pod-autoscaler-on-appuio-cloud/)
 - [VSHN HackDay – Tailscale on APPUiO Cloud](https://www.vshn.ch/blog/vshn-hackday-tailscale-on-appuio-cloud/)
 - [Most Interesting New Features of OpenShift 4.11](https://www.vshn.ch/blog/most-interesting-new-features-of-openshift-4-11/)
 - [Ankündigung von AppCat auf APPUiO Cloud](https://www.vshn.ch/blog/ankuendigung-appcat-auf-appuio-cloud/)
-- [Creating a Product through DevOps: The Story of APPUiO Cloud](https://www.vshn.ch/blog/creating-a-product-through-devops-the-story-of-appuio-cloud/)
 <!-- APPUIOCLOUD:END -->
 
 ## Tech Blog
