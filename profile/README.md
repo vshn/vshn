@@ -19,10 +19,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHNday 2022: Limited support availability on 2022-11-30](https://www.vshn.ch/en/blog/vshnday-2022-limited-support-availability-on-2022-11-30/)
 - [VSHN is Top Company 2022!](https://www.vshn.ch/en/blog/vshn-is-top-company-2022/)
 - [VSHN Company Update 2022](https://www.vshn.ch/en/blog/vshn-company-update-2022/)
 - [Get the “DevOps in Switzerland 2022” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2022-report/)
-- [The winners of the DevOps Study 2022 have been determined](https://www.vshn.ch/en/blog/the-winners-of-the-devops-study-2022-have-been-determined/)
 <!-- GENERAL:END -->
 
 ## APPUiO Cloud
