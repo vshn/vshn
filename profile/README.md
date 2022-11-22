@@ -46,10 +46,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #163: Solving Problems With Kubernetes](https://www.vshn.ch/blog/vshn-timer-163-solving-problems-with-kubernetes/)
 - [VSHN.timer #162: Mastodon Rising](https://www.vshn.ch/blog/vshn-timer-162-mastodon-rising/)
 - [VSHN.timer #161: The Various Evolutions of Linux](https://www.vshn.ch/blog/vshn-timer-161-the-various-evolutions-of-linux/)
 - [VSHN.timer #160: Programming For &lpar;And On&rpar; The Cloud](https://www.vshn.ch/blog/vshn-timer-160-programming-for-and-on-the-cloud/)
-- [VSHN.timer #159: Always Sunny In The Rich Cloud’s World](https://www.vshn.ch/blog/vshn-timer-159-always-sunny-in-the-rich-clouds-world/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
