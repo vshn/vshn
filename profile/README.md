@@ -46,10 +46,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #165: Is DevOps Still Relevant?](https://www.vshn.ch/blog/vshn-timer-165-is-devops-still-relevant/)
 - [VSHN.timer #164: Welcome to the Jungle](https://www.vshn.ch/blog/vshn-timer-164-welcome-to-the-jungle/)
 - [VSHN.timer #163: Solving Problems With Kubernetes](https://www.vshn.ch/blog/vshn-timer-163-solving-problems-with-kubernetes/)
 - [VSHN.timer #162: Mastodon Rising](https://www.vshn.ch/blog/vshn-timer-162-mastodon-rising/)
-- [VSHN.timer #161: The Various Evolutions of Linux](https://www.vshn.ch/blog/vshn-timer-161-the-various-evolutions-of-linux/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
