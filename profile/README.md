@@ -28,10 +28,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## APPUiO Cloud
 
 <!-- APPUIOCLOUD:START -->
+- [OpenShift 4.11 and User Workload Monitoring](https://www.vshn.ch/blog/openshift-4-11-and-user-workload-monitoring/)
 - [Choose Between Performance or Lower Cost with Node Classes on APPUiO Cloud](https://www.vshn.ch/blog/choose-between-performance-or-lower-cost-with-node-classes-on-appuio-cloud/)
 - [Vertical Pod Autoscaler on APPUiO Cloud](https://www.vshn.ch/blog/vertical-pod-autoscaler-on-appuio-cloud/)
 - [VSHN HackDay – Tailscale on APPUiO Cloud](https://www.vshn.ch/blog/vshn-hackday-tailscale-on-appuio-cloud/)
-- [Most Interesting New Features of OpenShift 4.11](https://www.vshn.ch/blog/most-interesting-new-features-of-openshift-4-11/)
 <!-- APPUIOCLOUD:END -->
 
 ## Tech Blog
