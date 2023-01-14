@@ -37,10 +37,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [Stay Ahead of the Game with Kubernetes](https://www.vshn.ch/en/blog/stay-ahead-of-the-game-with-kubernetes/)
 - [VSHN HackDay – Tailscale on APPUiO Cloud](https://www.vshn.ch/en/blog/vshn-hackday-tailscale-on-appuio-cloud/)
 - [Most Interesting New Features of OpenShift 4.11](https://www.vshn.ch/en/blog/most-interesting-new-features-of-openshift-4-11/)
 - [Keeping Things Up to Date with Renovate](https://www.vshn.ch/en/blog/keeping-things-up-to-date-with-renovate/)
-- [Get the “DevOps in Switzerland 2022” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2022-report/)
 <!-- TECH:END -->
 
 ## VSHN.timer
