@@ -46,10 +46,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #170: News From FOSDEM 2023](https://www.vshn.ch/blog/vshn-timer-170-news-from-fosdem-2023/)
 - [VSHN.timer #169: Recent Security Incident Reports](https://www.vshn.ch/blog/vshn-timer-169-recent-security-incident-reports/)
 - [VSHN.timer #168: The State of Cloud Native in 2022](https://www.vshn.ch/blog/vshn-timer-168-the-state-of-cloud-native-in-2022/)
 - [VSHN.timer #167: When The Product Goes Down](https://www.vshn.ch/blog/vshn-timer-167-when-the-product-goes-down/)
-- [VSHN.timer #166: Happy New Containers in 2023!](https://www.vshn.ch/blog/vshn-timer-166-happy-new-containers-in-2023/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
