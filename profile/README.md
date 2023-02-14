@@ -59,10 +59,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Open Clouds for Research Environments &lpar;OCRE&rpar;: Exoscale](https://www.youtube.com/watch?v=eiLtYBvu7rs)
 - [Webinar: How Taurus runs a Digital Asset Platform on CockroachDB and APPUiO – 2022-11-02](https://www.youtube.com/watch?v=RTZe1ZYjj60)
 - [APPUiO Beerup! – 2022-11-01](https://www.youtube.com/watch?v=L7cQE0F2iPM)
 - [Cloud Native Computing Switzerland Meetup – 2022-08-25](https://www.youtube.com/watch?v=4pL4pIM87dQ)
-- [VSHNtower office Zurich](https://www.youtube.com/watch?v=z0i5I9FEmSs)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
