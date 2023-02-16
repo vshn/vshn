@@ -19,10 +19,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [DevOps in Switzerland Study 2023](https://www.vshn.ch/en/blog/devops-in-switzerland-study-2023/)
 - [VSHN year in review 2022](https://www.vshn.ch/en/blog/vshn-year-in-review-2022/)
 - [Opening hours Christmas 2022 and New Year](https://www.vshn.ch/en/blog/opening-hours-christmas-2022-and-new-year/)
 - [VSHN is Red Hat Premier CCSP Partner in Switzerland](https://www.vshn.ch/en/blog/vshn-is-red-hat-premier-ccsp-partner-in-switzerland/)
-- [VSHNday 2022: Limited support availability on 2022-11-30](https://www.vshn.ch/en/blog/vshnday-2022-limited-support-availability-on-2022-11-30/)
 <!-- GENERAL:END -->
 
 ## APPUiO Cloud
