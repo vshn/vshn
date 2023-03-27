@@ -10,10 +10,17 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 
 ## Our Products
 
-|   |  |
-| :-------------: | :-------------: |
-| [<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appuio-cloud.svg" alt="APPUiO Cloud" height="100"/>](https://docs.appuio.cloud/)  | [<img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appcat.png" alt="AppCat" height="100"/>](https://docs.appcat.ch/)   |
-| [<img src="https://github.com/vshn/.github/raw/main/profile/images/project-syn.svg" alt="Project Syn" height="100"/>](https://syn.tools/)  | [<img src="https://github.com/vshn/.github/raw/main/profile/images/k8up.svg" alt="K8up" height="100"/>](https://k8up.io/)  |
+<table>
+<tr>
+<td><a href="https://docs.appuio.cloud/"><img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appuio-cloud.svg" alt="APPUiO Cloud" height="100"/></a></td>
+<td><a href="https://docs.appcat.ch/"><img src="https://raw.githubusercontent.com/vshn/.github/main/profile/images/appcat.png" alt="AppCat" height="100"/></a></td>
+</tr>
+
+<tr>
+<td><a href="https://syn.tools/"><img src="https://github.com/vshn/.github/raw/main/profile/images/project-syn.svg" alt="Project Syn" height="100"/></a></td>
+<td><a href="https://k8up.io/"><img src="https://github.com/vshn/.github/raw/main/profile/images/k8up.svg" alt="K8up" height="100"/></a></td>
+</tr>
+</table>
 
 ## Blog
 
