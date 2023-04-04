@@ -52,10 +52,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #177: Coffee Machine Currently Unavailable](https://www.vshn.ch/blog/vshn-timer-177-coffee-machine-currently-unavailable/)
 - [VSHN.timer #176: The Age of Artificial Intelligence](https://www.vshn.ch/blog/vshn-timer-176-the-age-of-artificial-intelligence/)
 - [VSHN.timer #175: Brain Damage](https://www.vshn.ch/blog/vshn-timer-175-brain-damage/)
 - [VSHN.timer #174: The Do-It-Yourself Strategy](https://www.vshn.ch/blog/vshn-timer-174-the-do-it-yourself-strategy/)
-- [VSHN.timer #173: GitAIOps](https://www.vshn.ch/blog/vshn-timer-173-gitaiops/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
