@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Getting Started with K8up](https://www.youtube.com/watch?v=L1xqKtDVGDs)
 - [Taurus &amp; VSHN at Red Hat Ecosystem Kickoff Switzerland 2023](https://www.youtube.com/watch?v=OXPFnRfp8VA)
 - [#shorts When Taurus Met VSHN, told by Sebastien Pasche himself!](https://www.youtube.com/watch?v=3UG3RiJP6tw)
 - [Cloud Native Computing Switzerland Meetup – 2023-02-23](https://www.youtube.com/watch?v=4hIgWIDGNiQ)
-- [Introduction to the Fediverse including Mastodon and ActivityPub](https://www.youtube.com/watch?v=sqAPxhtwLNc)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
