@@ -52,10 +52,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #181: The Road from FinOps to GreenOps](https://www.vshn.ch/blog/vshn-timer-181-the-road-from-finops-to-greenops/)
 - [VSHN.timer #180: What Happened at KubeCon 2023?](https://www.vshn.ch/blog/vshn-timer-180-what-happened-at-kubecon-2023/)
 - [VSHN.timer #179: Attending KubeCon + CloudNativeCon Europe 2023](https://www.vshn.ch/blog/vshn-timer-179-attending-kubecon-cloudnativecon-europe-2023/)
 - [VSHN.timer #178: Happy Birthday, Everyone!](https://www.vshn.ch/blog/vshn-timer-178-happy-birthday-everyone/)
-- [VSHN.timer #177: Coffee Machine Currently Unavailable](https://www.vshn.ch/blog/vshn-timer-177-coffee-machine-currently-unavailable/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
