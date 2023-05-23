@@ -52,10 +52,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #183: Attending Red Hat Summit 2023](https://www.vshn.ch/blog/vshn-timer-183-attending-red-hat-summit-2023/)
 - [VSHN.timer #182: Security Through AI](https://www.vshn.ch/blog/vshn-timer-182-security-through-ai/)
 - [VSHN.timer #181: The Road from FinOps to GreenOps](https://www.vshn.ch/blog/vshn-timer-181-the-road-from-finops-to-greenops/)
 - [VSHN.timer #180: What Happened at KubeCon 2023?](https://www.vshn.ch/blog/vshn-timer-180-what-happened-at-kubecon-2023/)
-- [VSHN.timer #179: Attending KubeCon + CloudNativeCon Europe 2023](https://www.vshn.ch/blog/vshn-timer-179-attending-kubecon-cloudnativecon-europe-2023/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
