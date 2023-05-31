@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [VSHN at the Red Hat Summit Boston 2023](https://www.youtube.com/watch?v=AlxEDDkAiVg)
 - [What’s hot at the Red Hat Summit 2023](https://www.youtube.com/watch?v=lULQ0wkcoCE)
 - [Getting Started with AppCat](https://www.youtube.com/watch?v=VgGPlp_KwBs)
 - [Getting Started with APPUiO Cloud](https://www.youtube.com/watch?v=GwP172nGp1g)
-- [Getting Started with K8up](https://www.youtube.com/watch?v=L1xqKtDVGDs)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
