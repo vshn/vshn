@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [State of DevOps in Switzerland 2023](https://www.youtube.com/watch?v=RZaCT25-CD0)
 - [&quot;Web application security in DevOps&quot; by Stefan Dietiker – Talk 3/3 at CNC CH Meetup, May 25th 2023](https://www.youtube.com/watch?v=ulToPffgq5s)
 - [&quot;Constellation: Encrypted Kubernetes&quot; by Moritz Eckert – Talk 2/3 at CNC CH Meetup, May 25th 2023](https://www.youtube.com/watch?v=zAYvrlJ7Q_w)
 - [&quot;Bypassing Security Controls&quot; by Philippe Bogaerts – Talk 1/3 at CNC CH Meetup, May 25th 2023](https://www.youtube.com/watch?v=N9H9cyzO9c8)
-- [VSHN at the Red Hat Summit Boston 2023](https://www.youtube.com/watch?v=AlxEDDkAiVg)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
