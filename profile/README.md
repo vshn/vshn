@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;WireMock8s Mocking APIs in Kubernetes&quot; by Oleg Nenashev – Talk 3/3 at CNC CH Meetup, June 29th 2023](https://www.youtube.com/watch?v=1D-BbC6AQWA)
+- [&quot;Data Mesh on Kafka&quot; by D. Maier, J. Mangold &amp; T. Stuber – Talk 1/3 at CNC CH Meetup, June 29th 2023](https://www.youtube.com/watch?v=vyvfbbsNBKY)
 - [Cloud Native Computing Meetup in Basel! At the Helvetia HVC LAB! #cloudnative #technology #cncf](https://www.youtube.com/watch?v=yj2eZhYo2ew)
 - [State of DevOps in Switzerland 2023](https://www.youtube.com/watch?v=RZaCT25-CD0)
-- [&quot;Web application security in DevOps&quot; by Stefan Dietiker – Talk 3/3 at CNC CH Meetup, May 25th 2023](https://www.youtube.com/watch?v=ulToPffgq5s)
-- [&quot;Constellation: Encrypted Kubernetes&quot; by Moritz Eckert – Talk 2/3 at CNC CH Meetup, May 25th 2023](https://www.youtube.com/watch?v=zAYvrlJ7Q_w)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
