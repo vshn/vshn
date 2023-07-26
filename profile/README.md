@@ -43,10 +43,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [VSHN’s Response to Zenbleed CVE-2023-20593](https://www.vshn.ch/en/blog/vshns-response-to-zenbleed-cve-2023-20593/)
 - [Get the “DevOps in Switzerland 2023” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2023-report/)
 - [VSHN Canada Hackday: A Tale of Tech Triumphs and Tasty Treats](https://www.vshn.ch/en/blog/vshn-canada-hackday-a-tale-of-tech-triumphs-and-tasty-treats/)
 - [Stay Ahead of the Game with Kubernetes](https://www.vshn.ch/en/blog/stay-ahead-of-the-game-with-kubernetes/)
-- [VSHN HackDay – Tailscale on APPUiO Cloud](https://www.vshn.ch/en/blog/vshn-hackday-tailscale-on-appuio-cloud/)
 <!-- TECH:END -->
 
 ## VSHN.timer
