@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;Infra as Code using cdk8s&quot; by M. Reimann and J. Zhang – Talk 3/3 at CNC CH Meetup, August 24th 2023](https://www.youtube.com/watch?v=VMlQ-F51gS4)
+- [&quot;Spring Apps with AOT and GraalVM&quot; by Sam Brannen – Talk 2/3 at CNC CH Meetup, August 24th 2023](https://www.youtube.com/watch?v=_gJ5AxkLJUo)
+- [&quot;VMware on ARM&quot; by Darragh Grealish – Talk 1/3 at CNC CH Meetup, August 24th 2023](https://www.youtube.com/watch?v=Pnvl288W8F8)
 - [Jun Zhang from AWS explains cdk8s #cncf #aws #cloudnative](https://www.youtube.com/watch?v=GjCq7E6s6DA)
-- [Sam Brannen explaining Spring Java apps #cncf #cloudnative #java](https://www.youtube.com/watch?v=bHdNAmbIJA8)
-- [Darragh Grealish talking about the ARM-powered cloud](https://www.youtube.com/watch?v=QjTCbIUIDPk)
-- [Join us at the August 2023 CNC CH Meetup with VMware! #cncf #innovation #cloudnative #technology](https://www.youtube.com/watch?v=v4jeRAjkJQ4)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
