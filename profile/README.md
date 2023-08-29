@@ -52,10 +52,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #197: Very Large-Scale Deployments](https://www.vshn.ch/blog/vshn-timer-197-very-large-scale-deployments/)
 - [VSHN.timer #196: Git, Gitea, GitLab, and GitHub](https://www.vshn.ch/blog/vshn-timer-196-git-gitea-gitlab-and-github/)
 - [VSHN.timer #195: AWSome News](https://www.vshn.ch/blog/vshn-timer-195-awsome-news/)
 - [VSHN.timer #194: In Memoriam Bram Moolenaar](https://www.vshn.ch/blog/vshn-timer-194-in-memoriam-bram-moolenaar/)
-- [VSHN.timer #193: Kubernetes and OpenShift Operators](https://www.vshn.ch/blog/vshn-timer-193-kubernetes-and-openshift-operators/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
