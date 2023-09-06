@@ -34,10 +34,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## APPUiO Cloud
 
 <!-- APPUIOCLOUD:START -->
-- [Self Sign-Up and Invitations on APPUiO Cloud](https://www.vshn.ch/blog/self-sign-up-and-invitations-on-appuio-cloud/)
-- [Upcoming Event: Increase your Productivity with APPUiO Cloud, AppCat, and Exoscale](https://www.vshn.ch/blog/upcoming-event-increase-your-productivity-with-appuio-cloud-appcat-and-exoscale/)
-- [Announcing DBaaS by Exoscale on AppCat](https://www.vshn.ch/blog/announcing-dbaas-by-exoscale-on-appcat/)
-- [OpenShift 4.11 and User Workload Monitoring](https://www.vshn.ch/blog/openshift-4-11-and-user-workload-monitoring/)
+- [New OpenShift 4.13 Features for APPUiO Users](https://vshn.ch/blog/new-openshift-4-13-features-for-appuio-users/)
+- [Self Sign-Up and Invitations on APPUiO Cloud](https://vshn.ch/blog/self-sign-up-and-invitations-on-appuio-cloud/)
+- [Upcoming Event: Increase your Productivity with APPUiO Cloud, AppCat, and Exoscale](https://vshn.ch/blog/upcoming-event-increase-your-productivity-with-appuio-cloud-appcat-and-exoscale/)
+- [Announcing DBaaS by Exoscale on AppCat](https://vshn.ch/blog/announcing-dbaas-by-exoscale-on-appcat/)
 <!-- APPUIOCLOUD:END -->
 
 ## Tech Blog
