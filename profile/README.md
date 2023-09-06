@@ -25,10 +25,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
-- [ISO 27001 Certification Renewed](https://www.vshn.ch/en/blog/iso-27001-certification-renewed/)
-- [VSHNday 2023: Limited support availability on 2023-06-08](https://www.vshn.ch/en/blog/vshnday-2023-limited-support-availability-on-2023-06-08/)
-- [Get the “DevOps in Switzerland 2023” Report](https://www.vshn.ch/en/blog/get-the-devops-in-switzerland-2023-report/)
-- [Meet the Winners of the DevOps Study 2023 Prize Draw!](https://www.vshn.ch/en/blog/meet-the-winners-of-the-devops-study-2023-prize-draw/)
+- [ISO 27001 Certification Renewed](https://vshn.ch/en/blog/iso-27001-certification-renewed/)
+- [VSHNday 2023: Limited support availability on 2023-06-08](https://vshn.ch/en/blog/vshnday-2023-limited-support-availability-on-2023-06-08/)
+- [Get the “DevOps in Switzerland 2023” Report](https://vshn.ch/en/blog/get-the-devops-in-switzerland-2023-report/)
+- [Meet the Winners of the DevOps Study 2023 Prize Draw!](https://vshn.ch/en/blog/meet-the-winners-of-the-devops-study-2023-prize-draw/)
 <!-- GENERAL:END -->
 
 ## APPUiO Cloud
