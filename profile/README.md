@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [VSHN at the Swiss Cloud Native Day 2023](https://www.youtube.com/watch?v=6AYH-Nqfs_4)
 - [APPUiO Beerup #8: &quot;Update on APPUiO Cloud &amp; APPUiO Managed OpenShift&quot; by Tobias Brunner – Talk 2/2](https://www.youtube.com/watch?v=o9Q5Ni5PPhA)
 - [APPUiO Beerup #8: &quot;What&#39;s new with OpenShift and beyond&quot; by Peter Mumenthaler – Talk 1/2](https://www.youtube.com/watch?v=jOKG-y87H58)
 - [&quot;Infra as Code using cdk8s&quot; by M. Reimann and J. Zhang – Talk 3/3 at CNC CH Meetup, August 24th 2023](https://www.youtube.com/watch?v=VMlQ-F51gS4)
-- [&quot;Spring Apps with AOT and GraalVM&quot; by Sam Brannen – Talk 2/3 at CNC CH Meetup, August 24th 2023](https://www.youtube.com/watch?v=_gJ5AxkLJUo)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
