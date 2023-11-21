@@ -52,10 +52,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #207: What’s New in OpenShift 4.14?](https://vshn.ch/blog/vshn-timer-207-whats-new-in-openshift-4-14/)
 - [VSHN.timer #206: The Essence of Fedora and Debian](https://vshn.ch/blog/vshn-timer-206-the-essence-of-fedora-and-debian/)
 - [VSHN.timer #205: Infrastructure as LLM](https://vshn.ch/blog/vshn-timer-205-infrastructure-as-llm/)
 - [VSHN.timer #204: The Raspberry 5 is Here!](https://vshn.ch/blog/vshn-timer-204-the-raspberry-5-is-here/)
-- [VSHN.timer #203: Uno, DDoS, Tres; Social Attacks Are The Best](https://vshn.ch/blog/vshn-timer-203-uno-ddos-tres-social-attacks-are-the-best/)
 <!-- VSHNTIMER:END -->
 
 ## Social Media
