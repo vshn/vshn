@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Cloud Native Computing Switzerland Meetup at AWS Zurich tonight! #cloudcomputing #technology](https://www.youtube.com/watch?v=TOsG1UDgm5Q)
 - [&quot;Cilium Service Mesh&quot; by Raphaël Pinson – Talk 3/3 at CNC CH Meetup, Nov 16th 2023](https://www.youtube.com/watch?v=nGoB-w4tjvo)
 - [&quot;Containers and Harbor&quot; by Vadim Bauer – Talk 2/3 at CNC CH Meetup, Nov 16th 2023](https://www.youtube.com/watch?v=_qlgitlC_f4)
 - [&quot;Cloud Native on Windows&quot; by Nuno Do Carmo – Talk 1/3 at CNC CH Meetup, Nov 16th 2023](https://www.youtube.com/watch?v=9hGLCShvpM4)
-- [VSHN at the Swiss Cloud Native Day 2023](https://www.youtube.com/watch?v=6AYH-Nqfs_4)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
