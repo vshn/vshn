@@ -25,10 +25,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [DevOps in Switzerland Survey 2024](https://vshn.ch/en/blog/devops-in-switzerland-survey-2024/)
 - [Introducing gepardec-run: Your 24/7 Hassle-Free Application Management Solution, powered by VSHN](https://vshn.ch/en/blog/introducing-gepardec-run-your-24-7-hassle-free-application-management-solution-powered-by-vshn/)
 - [ISO 27001 Certification Renewed](https://vshn.ch/en/blog/iso-27001-certification-renewed/)
 - [VSHNday 2023: Limited support availability on 2023-06-08](https://vshn.ch/en/blog/vshnday-2023-limited-support-availability-on-2023-06-08/)
-- [Get the “DevOps in Switzerland 2023” Report](https://vshn.ch/en/blog/get-the-devops-in-switzerland-2023-report/)
 <!-- GENERAL:END -->
 
 ## APPUiO Cloud
