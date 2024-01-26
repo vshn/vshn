@@ -65,10 +65,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [VSHN at the Red Hat Summit Connect Zürich – 2024-01-17](https://www.youtube.com/watch?v=0uNXDX98_vY)
 - [&quot;Operating Harbor as Service&quot; by Vadim Bauer – Talk 3/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=aKpKEoJjjqs)
 - [&quot;Cost monitoring on EKS with Kubecost&quot; by Patrick Madec – Talk 2/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=EX0ewUZpmRE)
 - [&quot;An introduction to Helm&quot; by Fabrizio Lazzaretti – Talk 1/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=KJZggq3jkqo)
-- [Cloud Native Computing Switzerland Meetup at AWS Zurich tonight! #cloudcomputing #technology](https://www.youtube.com/watch?v=TOsG1UDgm5Q)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
