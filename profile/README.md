@@ -43,10 +43,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Tech Blog
 
 <!-- TECH:START -->
+- [Watch the Recording of “How to Keep Container Operations Steady and Cost-Effective in 2024”](https://vshn.ch/en/blog/watch-the-recording-of-how-to-keep-container-operations-steady-and-cost-effective-in-2024/)
 - [Composition Functions in Production](https://vshn.ch/en/blog/composition-functions-in-production/)
 - [“Composition Functions in Production” by Tobias Brunner at the Control Plane Day with Crossplane](https://vshn.ch/en/blog/composition-functions-in-production-by-tobias-brunner-at-the-control-plane-day-with-crossplane/)
 - [New OpenShift 4.13 Features for APPUiO Users](https://vshn.ch/en/blog/new-openshift-4-13-features-for-appuio-users/)
-- [VSHN’s Response to Zenbleed CVE-2023-20593](https://vshn.ch/en/blog/vshns-response-to-zenbleed-cve-2023-20593/)
 <!-- TECH:END -->
 
 ## VSHN.timer
