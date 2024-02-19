@@ -15,6 +15,6 @@ jobs:
         with:
           comment_tag_name: "GENERAL"
           commit_message: "Updated readme with the latest general blog articles"
-          feed_list: "https://www.vshn.ch/general-rss.xml"
+          feed_list: "https://www.vshn.ch/feed/"
           max_post_count: 4
           readme_path: profile/README.md
