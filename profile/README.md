@@ -25,10 +25,10 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
-- [DevOps in Switzerland Survey 2024](https://vshn.ch/en/blog/devops-in-switzerland-survey-2024/)
-- [Introducing gepardec-run: Your 24/7 Hassle-Free Application Management Solution, powered by VSHN](https://vshn.ch/en/blog/introducing-gepardec-run-your-24-7-hassle-free-application-management-solution-powered-by-vshn/)
-- [ISO 27001 Certification Renewed](https://vshn.ch/en/blog/iso-27001-certification-renewed/)
-- [VSHNday 2023: Limited support availability on 2023-06-08](https://vshn.ch/en/blog/vshnday-2023-limited-support-availability-on-2023-06-08/)
+- [VSHN.timer #216: New Products on the Radar](https://www.vshn.ch/vshn-timer-216-new-products-on-the-radar/)
+- [Watch the Recording of „How to Keep Container Operations Steady and Cost-Effective in 2024“](https://www.vshn.ch/watch-the-recording-of-how-to-keep-container-operations-steady-and-cost-effective-in-2024/)
+- [VSHN: ein bahnbrechender Crossplane-Partner](https://www.vshn.ch/vshn-ein-bahnbrechender-crossplane-partner/)
+- [Zusammenarbeit und Innovation werden gefeiert: VSHN auf dem Red Hat Summit Connect Zürich 2024](https://www.vshn.ch/zusammenarbeit-und-innovation-werden-gefeiert-vshn-auf-dem-red-hat-summit-connect-zuerich-2024/)
 <!-- GENERAL:END -->
 
 <!-- ## APPUiO Cloud -->
