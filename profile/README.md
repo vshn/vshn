@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #217: Getting More out of your GitOps Platform](https://www.vshn.ch/vshn-timer-217-getting-more-out-of-your-gitops-platform/)
 - [VSHN.timer #216: New Products on the Radar](https://www.vshn.ch/vshn-timer-216-new-products-on-the-radar/)
 - [Watch the Recording of „How to Keep Container Operations Steady and Cost-Effective in 2024“](https://www.vshn.ch/watch-the-recording-of-how-to-keep-container-operations-steady-and-cost-effective-in-2024/)
 - [VSHN: ein bahnbrechender Crossplane-Partner](https://www.vshn.ch/vshn-ein-bahnbrechender-crossplane-partner/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #215: The Rise of OpenTofu and Crossplane](https://www.vshn.ch/vshn-timer-215-the-rise-of-opentofu-and-crossplane/)
 - [VSHN.timer #214: Switch to Firefox](https://www.vshn.ch/vshn-timer-214-switch-to-firefox/)
 - [VSHN.timer #213: The Latest and Greatest DevOps Tools](https://www.vshn.ch/vshn-timer-213-the-latest-and-greatest-devops-tools/)
-- [Composition Functions in Production](https://www.vshn.ch/composition-functions-in-production/)
 <!-- GENERAL:END -->
 
 <!-- ## APPUiO Cloud -->
