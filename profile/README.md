@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Discover the Future of Cloud Native Computing with VSHN at KubeCon Paris](https://www.vshn.ch/blog/discover-the-future-of-cloud-native-computing-with-vshn-at-kubecon-paris/)
 - [AppCat Now Standard on All APPUiO Managed OpenShift Clusters on Exoscale](https://www.vshn.ch/blog/appcat-now-standard-on-all-appuio-managed-openshift-clusters-on-exoscale/)
 - [VSHN.timer #218: Should you Rust or should you Go?](https://www.vshn.ch/blog/vshn-timer-218-should-you-rust-or-should-you-go/)
 - [VSHN.timer #217: Getting More out of your GitOps Platform](https://www.vshn.ch/blog/vshn-timer-217-getting-more-out-of-your-gitops-platform/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Watch the Recording of „How to Keep Container Operations Steady and Cost-Effective in 2024“](https://www.vshn.ch/blog/watch-the-recording-of-how-to-keep-container-operations-steady-and-cost-effective-in-2024/)
 - [VSHN: ein bahnbrechender Crossplane-Partner](https://www.vshn.ch/blog/vshn-ein-bahnbrechender-crossplane-partner/)
 - [Zusammenarbeit und Innovation werden gefeiert: VSHN auf dem Red Hat Summit Connect Zürich 2024](https://www.vshn.ch/blog/zusammenarbeit-und-innovation-werden-gefeiert-vshn-auf-dem-red-hat-summit-connect-zuerich-2024/)
-- [VSHN.timer #215: The Rise of OpenTofu and Crossplane](https://www.vshn.ch/blog/vshn-timer-215-the-rise-of-opentofu-and-crossplane/)
 <!-- GENERAL:END -->
 
 ## Social Media
