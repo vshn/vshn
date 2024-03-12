@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #220: Employment in Times of Crisis](https://www.vshn.ch/blog/vshn-timer-220-employment-in-times-of-crisis/)
 - [VSHN.timer #219: PostgreSQL Updates](https://www.vshn.ch/blog/vshn-timer-219-postgresql-updates/)
 - [Discover the Future of Cloud Native Computing with VSHN at KubeCon Paris](https://www.vshn.ch/blog/discover-the-future-of-cloud-native-computing-with-vshn-at-kubecon-paris/)
 - [AppCat Now Standard on All APPUiO Managed OpenShift Clusters on Exoscale](https://www.vshn.ch/blog/appcat-now-standard-on-all-appuio-managed-openshift-clusters-on-exoscale/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #217: Getting More out of your GitOps Platform](https://www.vshn.ch/blog/vshn-timer-217-getting-more-out-of-your-gitops-platform/)
 - [VSHN.timer #216: New Products on the Radar](https://www.vshn.ch/blog/vshn-timer-216-new-products-on-the-radar/)
 - [Watch the Recording of „How to Keep Container Operations Steady and Cost-Effective in 2024“](https://www.vshn.ch/blog/watch-the-recording-of-how-to-keep-container-operations-steady-and-cost-effective-in-2024/)
-- [VSHN: ein bahnbrechender Crossplane-Partner](https://www.vshn.ch/blog/vshn-ein-bahnbrechender-crossplane-partner/)
 <!-- GENERAL:END -->
 
 ## Social Media
