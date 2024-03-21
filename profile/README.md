@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Rewriting a Python Library in Rust](https://www.vshn.ch/blog/rewriting-a-python-library-in-rust/)
 - [VSHN.timer #221: A Turning Point for Microservices?](https://www.vshn.ch/blog/vshn-timer-221-a-turning-point-for-microservices/)
 - [VSHN.timer #220: Employment in Times of Crisis](https://www.vshn.ch/blog/vshn-timer-220-employment-in-times-of-crisis/)
 - [VSHN.timer #219: PostgreSQL Updates](https://www.vshn.ch/blog/vshn-timer-219-postgresql-updates/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [AppCat Now Standard on All APPUiO Managed OpenShift Clusters on Exoscale](https://www.vshn.ch/blog/appcat-now-standard-on-all-appuio-managed-openshift-clusters-on-exoscale/)
 - [VSHN.timer #218: Should you Rust or should you Go?](https://www.vshn.ch/blog/vshn-timer-218-should-you-rust-or-should-you-go/)
 - [VSHN.timer #217: Getting More out of your GitOps Platform](https://www.vshn.ch/blog/vshn-timer-217-getting-more-out-of-your-gitops-platform/)
-- [VSHN.timer #216: New Products on the Radar](https://www.vshn.ch/blog/vshn-timer-216-new-products-on-the-radar/)
 <!-- GENERAL:END -->
 
 ## Social Media
