@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #223: An Exozodiacal Threat](https://www.vshn.ch/blog/vshn-timer-223-an-exozodiacal-threat/)
 - [VSHN.timer #222: Videos from KubeCon + CloudNativeCon Europe 2024](https://www.vshn.ch/blog/vshn-timer-222-videos-from-kubecon-cloudnativecon-europe-2024/)
 - [Rewriting a Python Library in Rust](https://www.vshn.ch/blog/rewriting-a-python-library-in-rust/)
 - [VSHN.timer #221: A Turning Point for Microservices?](https://www.vshn.ch/blog/vshn-timer-221-a-turning-point-for-microservices/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #219: PostgreSQL Updates](https://www.vshn.ch/blog/vshn-timer-219-postgresql-updates/)
 - [Discover the Future of Cloud Native Computing with VSHN at KubeCon Paris](https://www.vshn.ch/blog/discover-the-future-of-cloud-native-computing-with-vshn-at-kubecon-paris/)
 - [AppCat Now Standard on All APPUiO Managed OpenShift Clusters on Exoscale](https://www.vshn.ch/blog/appcat-now-standard-on-all-appuio-managed-openshift-clusters-on-exoscale/)
-- [VSHN.timer #218: Should you Rust or should you Go?](https://www.vshn.ch/blog/vshn-timer-218-should-you-rust-or-should-you-go/)
 <!-- GENERAL:END -->
 
 ## Social Media
