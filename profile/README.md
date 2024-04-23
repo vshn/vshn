@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #225: DevOpsDays Zürich 2024](https://www.vshn.ch/blog/vshn-timer-225-devopsdays-zuerich-2024/)
 - [VSHN.timer #224: System Monitoring – an important cogwheel in the digital world](https://www.vshn.ch/blog/vshn-timer-224-system-monitoring-an-important-cogwheel-in-the-digital-world/)
 - [VSHN.timer #223: An Exozodiacal Threat](https://www.vshn.ch/blog/vshn-timer-223-an-exozodiacal-threat/)
 - [VSHN.timer #222: Videos from KubeCon + CloudNativeCon Europe 2024](https://www.vshn.ch/blog/vshn-timer-222-videos-from-kubecon-cloudnativecon-europe-2024/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #221: A Turning Point for Microservices?](https://www.vshn.ch/blog/vshn-timer-221-a-turning-point-for-microservices/)
 - [VSHN.timer #220: Employment in Times of Crisis](https://www.vshn.ch/blog/vshn-timer-220-employment-in-times-of-crisis/)
 - [VSHN.timer #219: PostgreSQL Updates](https://www.vshn.ch/blog/vshn-timer-219-postgresql-updates/)
-- [Discover the Future of Cloud Native Computing with VSHN at KubeCon Paris](https://www.vshn.ch/blog/discover-the-future-of-cloud-native-computing-with-vshn-at-kubecon-paris/)
 <!-- GENERAL:END -->
 
 ## Social Media
