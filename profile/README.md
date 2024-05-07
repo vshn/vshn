@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #227: Things that make you go „hmmmm“](https://www.vshn.ch/blog/vshn-timer-227-things-that-make-you-go-hmmmm/)
 - [VSHN.timer #226: Kubernetes Chronicle – Unveiling the latest innovations and security solutions](https://www.vshn.ch/blog/vshn-timer-226-kubernetes-chronicle-unveiling-the-latest-innovations-and-security-solutions/)
 - [VSHN.timer #225: DevOpsDays Zürich 2024](https://www.vshn.ch/blog/vshn-timer-225-devopsdays-zuerich-2024/)
 - [VSHN.timer #224: System Monitoring – an important cogwheel in the digital world](https://www.vshn.ch/blog/vshn-timer-224-system-monitoring-an-important-cogwheel-in-the-digital-world/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #222: Videos from KubeCon + CloudNativeCon Europe 2024](https://www.vshn.ch/blog/vshn-timer-222-videos-from-kubecon-cloudnativecon-europe-2024/)
 - [Rewriting a Python Library in Rust](https://www.vshn.ch/blog/rewriting-a-python-library-in-rust/)
 - [VSHN.timer #221: A Turning Point for Microservices?](https://www.vshn.ch/blog/vshn-timer-221-a-turning-point-for-microservices/)
-- [VSHN.timer #220: Employment in Times of Crisis](https://www.vshn.ch/blog/vshn-timer-220-employment-in-times-of-crisis/)
 <!-- GENERAL:END -->
 
 ## Social Media
