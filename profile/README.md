@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #229: Latest Ubuntu Buzz](https://www.vshn.ch/blog/vshn-timer-229-latest-ubuntu-buzz/)
 - [VSHN.timer #228: Mind-Blowing Revelation: We’re Eurovision Song Contest Winners! &lpar;sort of&rpar;](https://www.vshn.ch/blog/vshn-timer-228/)
 - [VSHN.timer #227: Things that make you go „hmmmm“](https://www.vshn.ch/blog/vshn-timer-227-things-that-make-you-go-hmmmm/)
 - [VSHN.timer #226: Kubernetes Chronicle – Unveiling the latest innovations and security solutions](https://www.vshn.ch/blog/vshn-timer-226-kubernetes-chronicle-unveiling-the-latest-innovations-and-security-solutions/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #224: System Monitoring – an important cogwheel in the digital world](https://www.vshn.ch/blog/vshn-timer-224-system-monitoring-an-important-cogwheel-in-the-digital-world/)
 - [VSHN.timer #223: An Exozodiacal Threat](https://www.vshn.ch/blog/vshn-timer-223-an-exozodiacal-threat/)
 - [VSHN.timer #222: Videos from KubeCon + CloudNativeCon Europe 2024](https://www.vshn.ch/blog/vshn-timer-222-videos-from-kubecon-cloudnativecon-europe-2024/)
-- [Rewriting a Python Library in Rust](https://www.vshn.ch/blog/rewriting-a-python-library-in-rust/)
 <!-- GENERAL:END -->
 
 ## Social Media
