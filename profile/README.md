@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;Backstage Boost&quot; by Josephine Pfeiffer and Manuel Schindler - Talk 3/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=DTh_9ue8uYo)
+- [&quot;eCommerce on Kubernetes&quot; - Marco Kuendig and René Hämmerli - Talk 2/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=PuPXVjNrHOg)
+- [&quot;Kubernetes, Postgres, CloudNativePG&quot; by Sergio Romera &lpar;EDB&rpar; - Talk 1/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=YiNRp5fkEi4)
 - [&quot;Production Container Operations&quot; by Manuel Hutter – Talk 3/3 at CNC CH Meetup, Feb 22nd 2024](https://www.youtube.com/watch?v=02qhS7XWkdI)
 - [&quot;Greening Your Cloud Native Practices&quot; by Michael Mueller – Talk 2/3 at CNC CH Meetup, Feb 22nd 2024](https://www.youtube.com/watch?v=3yugQUbOveA)
 - [&quot;Notary and TUF&quot; by Sebastian Fernandez – Talk 1/3 at CNC CH Meetup, Feb 22nd 2024](https://www.youtube.com/watch?v=8JMutokx1as)
 - [The Evolution of Cluster Maintenance at VSHN and APPUiO](https://www.youtube.com/watch?v=vA1gh7dwR-w)
 - [VSHN at the Red Hat Summit Connect Zürich – 2024-01-17](https://www.youtube.com/watch?v=0uNXDX98_vY)
-- [&quot;Operating Harbor as Service&quot; by Vadim Bauer – Talk 3/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=aKpKEoJjjqs)
-- [&quot;Cost monitoring on EKS with Kubecost&quot; by Patrick Madec – Talk 2/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=EX0ewUZpmRE)
-- [&quot;An introduction to Helm&quot; by Fabrizio Lazzaretti – Talk 1/3 at CNC CH Meetup, Nov 23rd 2023](https://www.youtube.com/watch?v=KJZggq3jkqo)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
