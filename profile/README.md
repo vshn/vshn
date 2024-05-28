@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #230: Cutting-Edge DevOps Tools](https://www.vshn.ch/blog/vshn-timer-230-cutting-edge-devops-tools/)
 - [VSHN.timer #229: Latest Ubuntu Buzz](https://www.vshn.ch/blog/vshn-timer-229-latest-ubuntu-buzz/)
 - [VSHN.timer #228: Mind-Blowing Revelation: We’re Eurovision Song Contest Winners! &lpar;sort of&rpar;](https://www.vshn.ch/blog/vshn-timer-228/)
 - [VSHN.timer #227: Things that make you go „hmmmm“](https://www.vshn.ch/blog/vshn-timer-227-things-that-make-you-go-hmmmm/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #225: DevOpsDays Zürich 2024](https://www.vshn.ch/blog/vshn-timer-225-devopsdays-zuerich-2024/)
 - [VSHN.timer #224: System Monitoring – an important cogwheel in the digital world](https://www.vshn.ch/blog/vshn-timer-224-system-monitoring-an-important-cogwheel-in-the-digital-world/)
 - [VSHN.timer #223: An Exozodiacal Threat](https://www.vshn.ch/blog/vshn-timer-223-an-exozodiacal-threat/)
-- [VSHN.timer #222: Videos from KubeCon + CloudNativeCon Europe 2024](https://www.vshn.ch/blog/vshn-timer-222-videos-from-kubecon-cloudnativecon-europe-2024/)
 <!-- GENERAL:END -->
 
 ## Social Media
