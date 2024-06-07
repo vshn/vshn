@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN is Gold sponsor at Kubernetes Community Days Zurich on June 13 2024](https://www.vshn.ch/blog/vshn-is-gold-sponsor-at-kubernetes-community-days-zurich-on-june-13-2024/)
 - [VSHN.timer #231: Navigating Tech Turbulences](https://www.vshn.ch/blog/vshn-timer-231-navigating-tech-turbulences/)
 - [VSHN.timer #230: Cutting-Edge DevOps Tools](https://www.vshn.ch/blog/vshn-timer-230-cutting-edge-devops-tools/)
 - [VSHN.timer #229: Latest Ubuntu Buzz](https://www.vshn.ch/blog/vshn-timer-229-latest-ubuntu-buzz/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #227: Things that make you go „hmmmm“](https://www.vshn.ch/blog/vshn-timer-227-things-that-make-you-go-hmmmm/)
 - [VSHN.timer #226: Kubernetes Chronicle – Unveiling the latest innovations and security solutions](https://www.vshn.ch/blog/vshn-timer-226-kubernetes-chronicle-unveiling-the-latest-innovations-and-security-solutions/)
 - [VSHN.timer #225: DevOpsDays Zürich 2024](https://www.vshn.ch/blog/vshn-timer-225-devopsdays-zuerich-2024/)
-- [VSHN.timer #224: System Monitoring – an important cogwheel in the digital world](https://www.vshn.ch/blog/vshn-timer-224-system-monitoring-an-important-cogwheel-in-the-digital-world/)
 <!-- GENERAL:END -->
 
 ## Social Media
