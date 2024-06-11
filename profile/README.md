@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #232: The AI Odyssey](https://www.vshn.ch/blog/vshn-timer-232-the-ai-odyssey/)
 - [VSHN is Gold sponsor at Kubernetes Community Days Zurich on June 13 2024](https://www.vshn.ch/blog/vshn-is-gold-sponsor-at-kubernetes-community-days-zurich-on-june-13-2024/)
 - [VSHN.timer #231: Navigating Tech Turbulences](https://www.vshn.ch/blog/vshn-timer-231-navigating-tech-turbulences/)
 - [VSHN.timer #230: Cutting-Edge DevOps Tools](https://www.vshn.ch/blog/vshn-timer-230-cutting-edge-devops-tools/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #228: Mind-Blowing Revelation: We’re Eurovision Song Contest Winners! &lpar;sort of&rpar;](https://www.vshn.ch/blog/vshn-timer-228/)
 - [VSHN.timer #227: Things that make you go „hmmmm“](https://www.vshn.ch/blog/vshn-timer-227-things-that-make-you-go-hmmmm/)
 - [VSHN.timer #226: Kubernetes Chronicle – Unveiling the latest innovations and security solutions](https://www.vshn.ch/blog/vshn-timer-226-kubernetes-chronicle-unveiling-the-latest-innovations-and-security-solutions/)
-- [VSHN.timer #225: DevOpsDays Zürich 2024](https://www.vshn.ch/blog/vshn-timer-225-devopsdays-zuerich-2024/)
 <!-- GENERAL:END -->
 
 ## Social Media
