@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
+- [Eine neue Ära bei VSHN: Neudefinition von Führung in der Selbstorganisation ohne Managementteam](https://www.vshn.ch/blog/eine-neue-aera-bei-vshn-neudefinition-von-fuehrung-in-der-selbstorganisation-ohne-managementteam/)
 - [VSHN.timer #233: The digital elves involved in the game of football](https://www.vshn.ch/blog/vshn-timer-233-the-digital-elves-involved-in-the-game-of-football/)
 - [Kubernetes Community Days &lpar;KCD&rpar; Zurich 2024 Recap](https://www.vshn.ch/blog/kubernetes-community-days-kcd-zurich-2024-recap/)
 - [VSHN.timer #232: The AI Odyssey](https://www.vshn.ch/blog/vshn-timer-232-the-ai-odyssey/)
 - [VSHN is Gold sponsor at Kubernetes Community Days Zurich on June 13 2024](https://www.vshn.ch/blog/vshn-is-gold-sponsor-at-kubernetes-community-days-zurich-on-june-13-2024/)
 - [VSHN.timer #231: Navigating Tech Turbulences](https://www.vshn.ch/blog/vshn-timer-231-navigating-tech-turbulences/)
 - [VSHN.timer #230: Cutting-Edge DevOps Tools](https://www.vshn.ch/blog/vshn-timer-230-cutting-edge-devops-tools/)
-- [VSHN.timer #229: Latest Ubuntu Buzz](https://www.vshn.ch/blog/vshn-timer-229-latest-ubuntu-buzz/)
-- [VSHN.timer #228: Mind-Blowing Revelation: We’re Eurovision Song Contest Winners! &lpar;sort of&rpar;](https://www.vshn.ch/blog/vshn-timer-228/)
 <!-- GENERAL:END -->
 
 ## Social Media
