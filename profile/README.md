@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN in der Top 10 Managed Cloud Platform im Swiss Digital Ranking](https://www.vshn.ch/blog/vshn-in-der-top-10-managed-cloud-platform-im-swiss-digital-ranking/)
 - [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
 - [Eine neue Ära bei VSHN: Neudefinition von Führung in der Selbstorganisation ohne Managementteam](https://www.vshn.ch/blog/eine-neue-aera-bei-vshn-neudefinition-von-fuehrung-in-der-selbstorganisation-ohne-managementteam/)
 - [VSHN.timer #233: The digital elves involved in the game of football](https://www.vshn.ch/blog/vshn-timer-233-the-digital-elves-involved-in-the-game-of-football/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #232: The AI Odyssey](https://www.vshn.ch/blog/vshn-timer-232-the-ai-odyssey/)
 - [VSHN is Gold sponsor at Kubernetes Community Days Zurich on June 13 2024](https://www.vshn.ch/blog/vshn-is-gold-sponsor-at-kubernetes-community-days-zurich-on-june-13-2024/)
 - [VSHN.timer #231: Navigating Tech Turbulences](https://www.vshn.ch/blog/vshn-timer-231-navigating-tech-turbulences/)
-- [VSHN.timer #230: Cutting-Edge DevOps Tools](https://www.vshn.ch/blog/vshn-timer-230-cutting-edge-devops-tools/)
 <!-- GENERAL:END -->
 
 ## Social Media
