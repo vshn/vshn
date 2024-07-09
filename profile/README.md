@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #236: Exploring the future of Databases and Storage Solutions](https://www.vshn.ch/blog/vshn-timer-236-exploring-the-future-of-databases-and-storage-solutions/)
 - [VSHN.timer #235: Enhancing Cloud, Open Source, and System Administration](https://www.vshn.ch/blog/vshn-timer-235-enhancing-cloud-open-source-and-system-administration/)
 - [VSHN in der Top 10 Managed Cloud Platform im Swiss Digital Ranking](https://www.vshn.ch/blog/vshn-in-der-top-10-managed-cloud-platform-im-swiss-digital-ranking/)
 - [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #233: The digital elves involved in the game of football](https://www.vshn.ch/blog/vshn-timer-233-the-digital-elves-involved-in-the-game-of-football/)
 - [Kubernetes Community Days &lpar;KCD&rpar; Zurich 2024 Recap](https://www.vshn.ch/blog/kubernetes-community-days-kcd-zurich-2024-recap/)
 - [VSHN.timer #232: The AI Odyssey](https://www.vshn.ch/blog/vshn-timer-232-the-ai-odyssey/)
-- [VSHN is Gold sponsor at Kubernetes Community Days Zurich on June 13 2024](https://www.vshn.ch/blog/vshn-is-gold-sponsor-at-kubernetes-community-days-zurich-on-june-13-2024/)
 <!-- GENERAL:END -->
 
 ## Social Media
