@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #237: Enhancing your workflow with essential Coding and Development Tools](https://www.vshn.ch/blog/vshn-timer-237-enhancing-your-workflow-with-essential-coding-and-development-tools/)
 - [VSHN übernimmt APPUiO von Puzzle und entwickelt es als Experten-Hosting-Lösung weiter](https://www.vshn.ch/blog/vshn-uebernimmt-appuio-von-puzzle-und-entwickelt-es-als-experten-hosting-loesung-weiter/)
 - [VSHN.timer #236: Exploring the future of Databases and Storage Solutions](https://www.vshn.ch/blog/vshn-timer-236-exploring-the-future-of-databases-and-storage-solutions/)
 - [VSHN.timer #235: Enhancing Cloud, Open Source, and System Administration](https://www.vshn.ch/blog/vshn-timer-235-enhancing-cloud-open-source-and-system-administration/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
 - [Eine neue Ära bei VSHN: Neudefinition von Führung in der Selbstorganisation ohne Managementteam](https://www.vshn.ch/blog/eine-neue-aera-bei-vshn-neudefinition-von-fuehrung-in-der-selbstorganisation-ohne-managementteam/)
 - [VSHN.timer #233: The digital elves involved in the game of football](https://www.vshn.ch/blog/vshn-timer-233-the-digital-elves-involved-in-the-game-of-football/)
-- [Kubernetes Community Days &lpar;KCD&rpar; Zurich 2024 Recap](https://www.vshn.ch/blog/kubernetes-community-days-kcd-zurich-2024-recap/)
 <!-- GENERAL:END -->
 
 ## Social Media
