@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN Managed OpenShift: Upgrade to OpenShift version 4.15](https://www.vshn.ch/blog/vshn-managed-openshift-upgrade-to-openshift-version-4-15/)
 - [VSHN.timer #237: Enhancing your workflow with essential Coding and Development Tools](https://www.vshn.ch/blog/vshn-timer-237-enhancing-your-workflow-with-essential-coding-and-development-tools/)
 - [VSHN übernimmt APPUiO von Puzzle und entwickelt es als Experten-Hosting-Lösung weiter](https://www.vshn.ch/blog/vshn-uebernimmt-appuio-von-puzzle-und-entwickelt-es-als-experten-hosting-loesung-weiter/)
 - [VSHN.timer #236: Exploring the future of Databases and Storage Solutions](https://www.vshn.ch/blog/vshn-timer-236-exploring-the-future-of-databases-and-storage-solutions/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN in der Top 10 Managed Cloud Platform im Swiss Digital Ranking](https://www.vshn.ch/blog/vshn-in-der-top-10-managed-cloud-platform-im-swiss-digital-ranking/)
 - [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
 - [Eine neue Ära bei VSHN: Neudefinition von Führung in der Selbstorganisation ohne Managementteam](https://www.vshn.ch/blog/eine-neue-aera-bei-vshn-neudefinition-von-fuehrung-in-der-selbstorganisation-ohne-managementteam/)
-- [VSHN.timer #233: The digital elves involved in the game of football](https://www.vshn.ch/blog/vshn-timer-233-the-digital-elves-involved-in-the-game-of-football/)
 <!-- GENERAL:END -->
 
 ## Social Media
