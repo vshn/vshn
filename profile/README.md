@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Hoi Peter!](https://www.vshn.ch/blog/hoi-peter/)
 - [VSHN.timer #238: CrowdStrike!](https://www.vshn.ch/blog/vshn-timer-238-crowdstrike/)
 - [VSHN Managed OpenShift: Upgrade to OpenShift version 4.15](https://www.vshn.ch/blog/vshn-managed-openshift-upgrade-to-openshift-version-4-15/)
 - [VSHN.timer #237: Enhancing your workflow with essential Coding and Development Tools](https://www.vshn.ch/blog/vshn-timer-237-enhancing-your-workflow-with-essential-coding-and-development-tools/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #236: Exploring the future of Databases and Storage Solutions](https://www.vshn.ch/blog/vshn-timer-236-exploring-the-future-of-databases-and-storage-solutions/)
 - [VSHN.timer #235: Enhancing Cloud, Open Source, and System Administration](https://www.vshn.ch/blog/vshn-timer-235-enhancing-cloud-open-source-and-system-administration/)
 - [VSHN in der Top 10 Managed Cloud Platform im Swiss Digital Ranking](https://www.vshn.ch/blog/vshn-in-der-top-10-managed-cloud-platform-im-swiss-digital-ranking/)
-- [VSHN.timer #234: Mastering the Art of Open-Source Projects](https://www.vshn.ch/blog/vshn-timer-234-open-source-project-management/)
 <!-- GENERAL:END -->
 
 ## Social Media
