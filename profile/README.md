@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #241: Computer themed songs](https://www.vshn.ch/blog/vshn-timer-241-computer-themed-songs/)
 - [VSHN.timer #240: Let the games begin!](https://www.vshn.ch/blog/vshn-timer-240-let-the-games-begin/)
 - [VSHN.timer #239: Raising privacy and security](https://www.vshn.ch/blog/vshn-timer-239-enhancing-privacy-and-security/)
 - [Hoi Peter!](https://www.vshn.ch/blog/hoi-peter/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN Managed OpenShift: Upgrade to OpenShift version 4.15](https://www.vshn.ch/blog/vshn-managed-openshift-upgrade-to-openshift-version-4-15/)
 - [VSHN.timer #237: Enhancing your workflow with essential Coding and Development Tools](https://www.vshn.ch/blog/vshn-timer-237-enhancing-your-workflow-with-essential-coding-and-development-tools/)
 - [VSHN übernimmt APPUiO von Puzzle und entwickelt es als Experten-Hosting-Lösung weiter](https://www.vshn.ch/blog/vshn-uebernimmt-appuio-von-puzzle-und-entwickelt-es-als-experten-hosting-loesung-weiter/)
-- [VSHN.timer #236: Exploring the future of Databases and Storage Solutions](https://www.vshn.ch/blog/vshn-timer-236-exploring-the-future-of-databases-and-storage-solutions/)
 <!-- GENERAL:END -->
 
 ## Social Media
