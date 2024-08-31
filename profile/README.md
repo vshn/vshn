@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Exploring Namespace-as-a-Service: A Deep Dive into APPUiO’s Implementation](https://www.vshn.ch/blog/exploring-namespace-as-a-service-a-deep-dive-into-appuios-implementation/)
 - [VSHN.timer #242: The quirky corners of coding](https://www.vshn.ch/blog/vshn-timer-242-the-quirky-corners-of-coding/)
 - [VSHN.timer #241: Computer themed songs](https://www.vshn.ch/blog/vshn-timer-241-computer-themed-songs/)
 - [VSHN.timer #240: Let the games begin!](https://www.vshn.ch/blog/vshn-timer-240-let-the-games-begin/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Hoi Peter!](https://www.vshn.ch/blog/hoi-peter/)
 - [VSHN.timer #238: CrowdStrike!](https://www.vshn.ch/blog/vshn-timer-238-crowdstrike/)
 - [VSHN Managed OpenShift: Upgrade to OpenShift version 4.15](https://www.vshn.ch/blog/vshn-managed-openshift-upgrade-to-openshift-version-4-15/)
-- [VSHN.timer #237: Enhancing your workflow with essential Coding and Development Tools](https://www.vshn.ch/blog/vshn-timer-237-enhancing-your-workflow-with-essential-coding-and-development-tools/)
 <!-- GENERAL:END -->
 
 ## Social Media
