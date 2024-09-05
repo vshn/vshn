@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Announcing Keycloak by VSHN: Your Ultimate Open Source IAM Solution](https://www.vshn.ch/blog/announcing-keycloak-by-vshn-your-ultimate-open-source-iam-solution/)
 - [Exploring Namespace-as-a-Service: A Deep Dive into APPUiO’s Implementation](https://www.vshn.ch/blog/exploring-namespace-as-a-service-a-deep-dive-into-appuios-implementation/)
 - [VSHN.timer #242: The quirky corners of coding](https://www.vshn.ch/blog/vshn-timer-242-the-quirky-corners-of-coding/)
 - [VSHN.timer #241: Computer themed songs](https://www.vshn.ch/blog/vshn-timer-241-computer-themed-songs/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #239: Raising privacy and security](https://www.vshn.ch/blog/vshn-timer-239-enhancing-privacy-and-security/)
 - [Hoi Peter!](https://www.vshn.ch/blog/hoi-peter/)
 - [VSHN.timer #238: CrowdStrike!](https://www.vshn.ch/blog/vshn-timer-238-crowdstrike/)
-- [VSHN Managed OpenShift: Upgrade to OpenShift version 4.15](https://www.vshn.ch/blog/vshn-managed-openshift-upgrade-to-openshift-version-4-15/)
 <!-- GENERAL:END -->
 
 ## Social Media
