@@ -26,13 +26,13 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 
 <!-- GENERAL:START -->
 - [Announcing Keycloak by VSHN: Your Ultimate Open Source IAM Solution](https://www.vshn.ch/blog/announcing-keycloak-by-vshn-your-ultimate-open-source-iam-solution/)
+- [VSHN.timer #243: Scaling the skies – insights and trends in European Cloud Computing](https://www.vshn.ch/blog/vshn-timer-243-scaling-the-skies-insights-and-trends-in-european-cloud-computing/)
 - [Exploring Namespace-as-a-Service: A Deep Dive into APPUiO’s Implementation](https://www.vshn.ch/blog/exploring-namespace-as-a-service-a-deep-dive-into-appuios-implementation/)
 - [VSHN.timer #242: The quirky corners of coding](https://www.vshn.ch/blog/vshn-timer-242-the-quirky-corners-of-coding/)
 - [VSHN.timer #241: Computer themed songs](https://www.vshn.ch/blog/vshn-timer-241-computer-themed-songs/)
 - [VSHN.timer #240: Let the games begin!](https://www.vshn.ch/blog/vshn-timer-240-let-the-games-begin/)
 - [VSHN.timer #239: Raising privacy and security](https://www.vshn.ch/blog/vshn-timer-239-enhancing-privacy-and-security/)
 - [Hoi Peter!](https://www.vshn.ch/blog/hoi-peter/)
-- [VSHN.timer #238: CrowdStrike!](https://www.vshn.ch/blog/vshn-timer-238-crowdstrike/)
 <!-- GENERAL:END -->
 
 ## Social Media
