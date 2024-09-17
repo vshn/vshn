@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #244: Tales of innovation](https://www.vshn.ch/blog/vshn-timer-244-tales-of-innovation/)
 - [Jetzt verfügbar: DevOps in der Schweiz Report 2024](https://www.vshn.ch/blog/jetzt-verfuegbar-devops-in-der-schweiz-report-2024/)
 - [Announcing Keycloak by VSHN: Your Ultimate Open Source IAM Solution](https://www.vshn.ch/blog/announcing-keycloak-by-vshn-your-ultimate-open-source-iam-solution/)
 - [VSHN.timer #243: Scaling the skies – insights and trends in European Cloud Computing](https://www.vshn.ch/blog/vshn-timer-243-scaling-the-skies-insights-and-trends-in-european-cloud-computing/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #242: The quirky corners of coding](https://www.vshn.ch/blog/vshn-timer-242-the-quirky-corners-of-coding/)
 - [VSHN.timer #241: Computer themed songs](https://www.vshn.ch/blog/vshn-timer-241-computer-themed-songs/)
 - [VSHN.timer #240: Let the games begin!](https://www.vshn.ch/blog/vshn-timer-240-let-the-games-begin/)
-- [VSHN.timer #239: Raising privacy and security](https://www.vshn.ch/blog/vshn-timer-239-enhancing-privacy-and-security/)
 <!-- GENERAL:END -->
 
 ## Social Media
