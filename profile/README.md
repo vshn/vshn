@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #246: Exploring Linux &amp; UNIX Systems](https://www.vshn.ch/blog/vshn-timer-246-exploring-linux-unix-systems/)
 - [Announcing General Availability of PostgreSQL by VSHN – On OpenShift](https://www.vshn.ch/blog/announcing-general-availability-of-postgresql-by-vshn-on-openshift/)
 - [Swiss Cloud Native Day 2024 Recap – A Day to Remember!](https://www.vshn.ch/blog/swiss-cloud-native-day-2024-recap/)
 - [VSHN.timer #245: Wreaking havoc](https://www.vshn.ch/blog/vshn-timer-245-wreaking-havoc/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Welcome Robin](https://www.vshn.ch/blog/welcome-robin-2/)
 - [VSHN.timer #244: Tales of innovation](https://www.vshn.ch/blog/vshn-timer-244-tales-of-innovation/)
 - [Jetzt verfügbar: DevOps in der Schweiz Report 2024](https://www.vshn.ch/blog/jetzt-verfuegbar-devops-in-der-schweiz-report-2024/)
-- [Announcing Keycloak by VSHN: Your Ultimate Open Source IAM Solution](https://www.vshn.ch/blog/announcing-keycloak-by-vshn-your-ultimate-open-source-iam-solution/)
 <!-- GENERAL:END -->
 
 ## Social Media
