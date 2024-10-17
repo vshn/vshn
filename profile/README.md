@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN Managed OpenShift: What you need to know about OpenShift 4.16](https://www.vshn.ch/blog/vshn-managed-openshift-what-you-need-to-know-about-openshift-4-16/)
 - [VSHN.timer #246: Exploring Linux &amp; UNIX Systems](https://www.vshn.ch/blog/vshn-timer-246-exploring-linux-unix-systems/)
 - [Announcing General Availability of PostgreSQL by VSHN – On OpenShift](https://www.vshn.ch/blog/announcing-general-availability-of-postgresql-by-vshn-on-openshift/)
 - [Swiss Cloud Native Day 2024 Recap – A Day to Remember!](https://www.vshn.ch/blog/swiss-cloud-native-day-2024-recap/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Einführung von VSHN Application Marketplace](https://www.vshn.ch/blog/einfuehrung-von-vshn-application-marketplace/)
 - [Welcome Robin](https://www.vshn.ch/blog/welcome-robin-2/)
 - [VSHN.timer #244: Tales of innovation](https://www.vshn.ch/blog/vshn-timer-244-tales-of-innovation/)
-- [Jetzt verfügbar: DevOps in der Schweiz Report 2024](https://www.vshn.ch/blog/jetzt-verfuegbar-devops-in-der-schweiz-report-2024/)
 <!-- GENERAL:END -->
 
 ## Social Media
