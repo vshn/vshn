@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #247: Celebrating the Internet](https://www.vshn.ch/blog/vshn-timer-247-celebrating-the-internet/)
 - [Recap Swiss Python Summit 2024](https://www.vshn.ch/blog/recap-swiss-python-summit-2024/)
 - [VSHN Managed OpenShift: What you need to know about OpenShift 4.16](https://www.vshn.ch/blog/vshn-managed-openshift-what-you-need-to-know-about-openshift-4-16/)
 - [VSHN.timer #246: Exploring Linux &amp; UNIX Systems](https://www.vshn.ch/blog/vshn-timer-246-exploring-linux-unix-systems/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Swiss Cloud Native Day 2024 Recap – A Day to Remember!](https://www.vshn.ch/blog/swiss-cloud-native-day-2024-recap/)
 - [VSHN.timer #245: Wreaking havoc](https://www.vshn.ch/blog/vshn-timer-245-wreaking-havoc/)
 - [Einführung von VSHN Application Marketplace](https://www.vshn.ch/blog/einfuehrung-von-vshn-application-marketplace/)
-- [Welcome Robin](https://www.vshn.ch/blog/welcome-robin-2/)
 <!-- GENERAL:END -->
 
 ## Social Media
