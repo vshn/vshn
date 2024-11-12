@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #249: Handling the shifting cloud frontier](https://www.vshn.ch/blog/vshn-timer-249-handling-the-shifting-cloud-frontier/)
 - [Announcing Redis by VSHN – Enhance Your Containerized Workloads](https://www.vshn.ch/blog/announcing-redis-by-vshn-enhance-your-containerized-workloads/)
 - [VSHN.timer #248: Rethinking Web Development in 2024](https://www.vshn.ch/blog/vshn-timer-248-rethinking-web-development-in-2024/)
 - [VSHN.timer #247: Celebrating the Internet](https://www.vshn.ch/blog/vshn-timer-247-celebrating-the-internet/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN Managed OpenShift: What you need to know about OpenShift 4.16](https://www.vshn.ch/blog/vshn-managed-openshift-what-you-need-to-know-about-openshift-4-16/)
 - [VSHN.timer #246: Exploring Linux &amp; UNIX Systems](https://www.vshn.ch/blog/vshn-timer-246-exploring-linux-unix-systems/)
 - [Announcing General Availability of PostgreSQL by VSHN – On OpenShift](https://www.vshn.ch/blog/announcing-general-availability-of-postgresql-by-vshn-on-openshift/)
-- [Swiss Cloud Native Day 2024 Recap – A Day to Remember!](https://www.vshn.ch/blog/swiss-cloud-native-day-2024-recap/)
 <!-- GENERAL:END -->
 
 ## Social Media
