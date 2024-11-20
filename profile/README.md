@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN und IONOS gewinnen Red Hat Cloud Ecosystem Award](https://www.vshn.ch/blog/vshn-und-ionos-gewinnen-red-hat-cloud-ecosystem-award/)
 - [Welcome Andreas!](https://www.vshn.ch/blog/welcome-andreas-2/)
 - [VSHN.timer #249: Handling the shifting cloud frontier](https://www.vshn.ch/blog/vshn-timer-249-handling-the-shifting-cloud-frontier/)
 - [Announcing Redis by VSHN – Enhance Your Containerized Workloads](https://www.vshn.ch/blog/announcing-redis-by-vshn-enhance-your-containerized-workloads/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #247: Celebrating the Internet](https://www.vshn.ch/blog/vshn-timer-247-celebrating-the-internet/)
 - [Recap Swiss Python Summit 2024](https://www.vshn.ch/blog/recap-swiss-python-summit-2024/)
 - [VSHN Managed OpenShift: What you need to know about OpenShift 4.16](https://www.vshn.ch/blog/vshn-managed-openshift-what-you-need-to-know-about-openshift-4-16/)
-- [VSHN.timer #246: Exploring Linux &amp; UNIX Systems](https://www.vshn.ch/blog/vshn-timer-246-exploring-linux-unix-systems/)
 <!-- GENERAL:END -->
 
 ## Social Media
