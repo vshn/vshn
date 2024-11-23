@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;Source code sovereignty&quot; by Tobias Brunner - T3/3 CNC CH Meetup, November 7 2024](https://www.youtube.com/watch?v=8WuAGeSHIao)
 - [&quot;Dagger 101&quot; by Christoph Raaflaub &amp; Raphaela Seeger &lpar;Puzzle&rpar; - T2/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=mAnVpZD6Kx8)
 - [&quot;Platform Engineering for Generative AI-powered applications&quot; - T1/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=DtDadtCkO64)
 - [&quot;Using Common Expression Language to build an IAM system&quot; - T3/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=vEGXCFn8444)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;eCommerce on Kubernetes&quot; - Marco Kuendig and René Hämmerli - Talk 2/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=PuPXVjNrHOg)
 - [&quot;Kubernetes, Postgres, CloudNativePG&quot; by Sergio Romera &lpar;EDB&rpar; - Talk 1/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=YiNRp5fkEi4)
 - [&quot;Production Container Operations&quot; by Manuel Hutter – Talk 3/3 at CNC CH Meetup, Feb 22nd 2024](https://www.youtube.com/watch?v=02qhS7XWkdI)
-- [&quot;Greening Your Cloud Native Practices&quot; by Michael Mueller – Talk 2/3 at CNC CH Meetup, Feb 22nd 2024](https://www.youtube.com/watch?v=3yugQUbOveA)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
