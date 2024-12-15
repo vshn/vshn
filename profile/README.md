@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;KubeVirt, Running and managing VMs on Kubernetes&quot; by Christof Lüthi &amp; Thomas Philipona &lpar;CNC Meetup&rpar;](https://www.youtube.com/watch?v=i_BrF_qBINc)
 - [&quot;Managing Geospatial Open Data Serverlessly&quot; by Chris Bingham - T2/3 CNC CH Meetup, November 7 2024](https://www.youtube.com/watch?v=y3NnNjeQRkM)
 - [&quot;Porting Legacy Applications to Kubernetes&quot; by Carole Hamer - T1/3 CNC CH Meetup, November 7 2024](https://www.youtube.com/watch?v=K_f0def7Ogo)
 - [10 Years VSHN Party](https://www.youtube.com/watch?v=2C9gpFQwYps)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;Dagger 101&quot; by Christoph Raaflaub &amp; Raphaela Seeger &lpar;Puzzle&rpar; - T2/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=mAnVpZD6Kx8)
 - [&quot;Platform Engineering for Generative AI-powered applications&quot; - T1/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=DtDadtCkO64)
 - [&quot;Using Common Expression Language to build an IAM system&quot; - T3/3 CNC CH Meetup, August 22nd 2024](https://www.youtube.com/watch?v=vEGXCFn8444)
-- [&quot;Backstage Boost&quot; by Josephine Pfeiffer and Manuel Schindler - Talk 3/3 CNC CH Meetup, May 23rd 2024](https://www.youtube.com/watch?v=DTh_9ue8uYo)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!
