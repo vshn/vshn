@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Happy Holidays](https://www.vshn.ch/blog/happy-holidays/)
 - [VSHN.timer #251: Privacy &amp; Security – critical pillars of the digital age](https://www.vshn.ch/blog/vshn-timer-251-privacy-security/)
 - [VSHN.timer #250: VSHN10 &amp; K8s10 🎉 🥳 🎂](https://www.vshn.ch/blog/vshn-timer-250-vshn10-k8s10/)
 - [VSHN’s 10-jähriges Jubiläum](https://www.vshn.ch/blog/vshns-10-jaehriges-jubilaeum/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Welcome Andreas!](https://www.vshn.ch/blog/welcome-andreas-2/)
 - [VSHN.timer #249: Handling the shifting cloud frontier](https://www.vshn.ch/blog/vshn-timer-249-handling-the-shifting-cloud-frontier/)
 - [Announcing Redis by VSHN – Enhance Your Containerized Workloads](https://www.vshn.ch/blog/announcing-redis-by-vshn-enhance-your-containerized-workloads/)
-- [VSHN.timer #248: Rethinking Web Development in 2024](https://www.vshn.ch/blog/vshn-timer-248-rethinking-web-development-in-2024/)
 <!-- GENERAL:END -->
 
 ## Social Media
